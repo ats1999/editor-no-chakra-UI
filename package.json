@@ -6,10 +6,16 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "@toast-ui/react-editor": "^3.1.0",
+    "@toast-ui/react-editor": "^3.1.1",
+    "katex": "^0.15.1",
+    "mde10": "^2.0.5",
+    "mdh10": "^2.0.0",
+    "mdv10": "^2.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "react-ui-dep": "^2.0.0",
+    "un": "0.0.0",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
